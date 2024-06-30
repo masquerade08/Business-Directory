@@ -3,7 +3,7 @@ Business Directory App (Expo)
 This Expo-based React Native application serves as a comprehensive business directory, featuring robust authentication using Clerk, dynamic home page sliders, category selection for browsing businesses, and a curated list of top 10 businesses.
 
 Features
-Authentication: Secure authentication powered by Clerk ensures user data integrity and access control.
+Authentication: Secure authentication powered by Clerk ensures user data integrity and access control."\n"
 Dynamic Home Page: Engaging sliders and prominently displayed categories provide a visually appealing and user-friendly interface.
 Category Selection: Users can explore businesses by selecting categories of interest, facilitating targeted browsing.
 Top 10 Businesses: A curated list showcasing the top businesses based on user ratings and popularity.
